@@ -1,2 +1,1 @@
-## Obtendo tabela de uma página HTML e transformando em um DataFrame com Pandas.
-
+Análise da Taxa de Suicídio no Brasil entre os anos de 1995 - 2015.
